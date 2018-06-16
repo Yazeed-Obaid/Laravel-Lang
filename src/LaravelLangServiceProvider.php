@@ -20,7 +20,7 @@ class LaravelLangServiceProvider extends ServiceProvider
          * Config
          */
         $this->mergeConfigFrom(
-            __DIR__ . '/config/laravel-lang.php', 'laravel-lang'
+            __DIR__ . '/../config/laravel-lang.php', 'laravel-lang'
         );
 
         $this->publishes([
@@ -30,7 +30,7 @@ class LaravelLangServiceProvider extends ServiceProvider
         /**
          * Routes
          */
-        $this->loadRoutesFrom(__DIR__ . '/routes.php');
+        $this->loadRoutesFrom(__DIR__ . '/routes/web.php');
 
     }
 }

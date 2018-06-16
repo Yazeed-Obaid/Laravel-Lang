@@ -54,7 +54,6 @@ return [
          * Here you define a path for each package you want to export the
          * translations for.
          * */
-        'base' => '/packages/base/src/resources/lang',
     ],
 
 
@@ -69,11 +68,6 @@ return [
          * */
 
         'default' => [
-            'auth',
-            'messages'
-        ],
-        'base' => [
-            'base'
         ]
     ]
 ];

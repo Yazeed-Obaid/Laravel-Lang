@@ -11,10 +11,6 @@ class LaravelLangServiceProvider extends ServiceProvider
 
     public function boot()
     {
-        $this->app->bind('export-lang', function () {
-
-            return new ExportLangs();
-        });
 
         /**
          * Config

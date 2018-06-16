@@ -16,5 +16,12 @@
         "psr-4": {
             "YazeedObaid\\Lang\\": "src/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "YazeedObaid\\Lang\\LaravelLangServiceProvider"
+            ]
+        }
     }
 }

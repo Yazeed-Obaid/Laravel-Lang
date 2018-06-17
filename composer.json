@@ -21,10 +21,7 @@
         "laravel": {
             "providers": [
                 "YazeedObaid\\Lang\\LaravelLangServiceProvider"
-            ],
-            "aliases": {
-                "export-langs": "YazeedObaid\\Lang\\Facades\\ExportLangs"
-            }
+            ]
         }
     }
 }

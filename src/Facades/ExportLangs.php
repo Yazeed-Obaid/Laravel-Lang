@@ -10,6 +10,6 @@ class ExportLangs extends Facade
 
     protected static function getFacadeAccessor()
     {
-        return 'export-langs';
+        return \YazeedObaid\Lang\Classes\ExportLangs::class;
     }
 }

@@ -10,6 +10,6 @@ class ExportLangs extends Facade
 
     protected static function getFacadeAccessor()
     {
-        return 'export-lang';
+        return 'export-langs';
     }
 }

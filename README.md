@@ -15,12 +15,9 @@
         <img src="https://img.shields.io/github/downloads/Yazeed-Obaid/Laravel-Lang/total.svg"
             alt="Downloads">
     </a>
-       
 </p>
 
 
-
-# Laravel-Lang
 Modular Export of Laravel translations for Front-End and API usage.
 
 This package is inspired from the the way how CMSs built on top of Laravel work and 

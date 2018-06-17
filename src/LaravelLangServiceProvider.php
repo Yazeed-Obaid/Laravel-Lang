@@ -20,7 +20,7 @@ class LaravelLangServiceProvider extends ServiceProvider
         );
 
         $this->publishes([
-            __DIR__ . '../config/laravel-lang.php' => config_path('laravel-lang.php'),
+            __DIR__ . '/../config/laravel-lang.php' => config_path('laravel-lang.php'),
         ], 'config');
 
         /**

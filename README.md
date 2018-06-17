@@ -1,3 +1,25 @@
+
+<h1 align="center">
+    Laravel-Lang
+</h1>
+<p align="center">
+    <a href="https://github.com/Yazeed-Obaid/Laravel-Lang/blob/master/LICENSE">
+        <img src="https://img.shields.io/github/license/Yazeed-Obaid/Laravel-Lang.svg" 
+             alt="License">
+    </a>
+    <a href="https://github.com/Yazeed-Obaid/Laravel-Lang/releases/tag/0.1">
+        <img src="https://img.shields.io/github/release/Yazeed-Obaid/Laravel-Lang.svg"
+            alt="Downloads">
+    </a>
+    <a href="https://github.com/Yazeed-Obaid/Laravel-Lang/releases">
+        <img src="https://img.shields.io/github/downloads/Yazeed-Obaid/Laravel-Lang/total.svg"
+            alt="Downloads">
+    </a>
+       
+</p>
+
+
+
 # Laravel-Lang
 Modular Export of Laravel translations for Front-End and API usage.
 

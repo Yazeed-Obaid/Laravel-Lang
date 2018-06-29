@@ -74,12 +74,16 @@ that package:
          * to use it in export to Vue. The default path to Laravel applications which
          * is /resources/lang is set by default to you
          * */
-
+         
+         
+         
         /**
          * Default path is the resources/lang path.
          * */
         'default' => '/resources/lang',
-
+        
+        
+        
         /**
          * Here you define a path for each package you want to export the
          * translations for.
@@ -90,19 +94,17 @@ that package:
 
     'files_to_exclude' => [
         /**
-         * Some flags to control which files to use in export.
+         * In each package you define above in the paths array you can exclude files
+         * in that package and not to include them in export to Vue process. Use the
+         * same key you use above to exclude files in each package. The below is an
+         * example of excluding the auth file in default Laravel translations
+         * location.
          * */
-
-        /**
-         * To disable the default lang directory of a Laravel application set this
-         * flag to true. By default it is false to include this directory in export.
-         * */
-
-        'default' => [
-        ],
-        'my-package' => [
-            'excludedTransFile'
-        ]
+         
+         
+        /*'default' => [
+            'auth'
+        ]*/
     ]
 
 ```

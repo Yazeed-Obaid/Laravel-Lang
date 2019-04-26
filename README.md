@@ -34,7 +34,7 @@ Require this package, with [Composer](https://getcomposer.org/), in the root dir
 of your project.
 
 ``` bash
-$ composer require yazeed-obaid/laravel-lang
+$ composer require yazeedobaid/laravel-lang
 ```
 
 

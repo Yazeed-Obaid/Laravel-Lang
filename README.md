@@ -3,16 +3,16 @@
     Laravel-Lang
 </h1>
 <p align="center">
-    <a href="https://github.com/Yazeed-Obaid/Laravel-Lang/blob/master/LICENSE">
-        <img src="https://img.shields.io/github/license/Yazeed-Obaid/Laravel-Lang.svg" 
+    <a href="https://github.com/yazeedobaid/Laravel-Lang/blob/master/LICENSE">
+        <img src="https://img.shields.io/github/license/yazeedobaid/Laravel-Lang.svg" 
              alt="License">
     </a>
-    <a href="https://github.com/Yazeed-Obaid/Laravel-Lang/releases/tag/0.1">
-        <img src="https://img.shields.io/github/release/Yazeed-Obaid/Laravel-Lang.svg"
+    <a href="https://github.com/yazeedobaid/Laravel-Lang/releases/tag/0.1">
+        <img src="https://img.shields.io/github/release/yazeedobaid/Laravel-Lang.svg"
             alt="Downloads">
     </a>
-    <a href="https://github.com/Yazeed-Obaid/Laravel-Lang/releases">
-        <img src="https://img.shields.io/github/downloads/Yazeed-Obaid/Laravel-Lang/total.svg"
+    <a href="https://github.com/yazeedobaid/Laravel-Lang/releases">
+        <img src="https://img.shields.io/github/downloads/yazeedobaid/Laravel-Lang/total.svg"
             alt="Downloads">
     </a>
 </p>

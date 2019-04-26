@@ -1,5 +1,5 @@
 {
-    "name": "yazeed-obaid/laravel-lang",
+    "name": "yazeedobaid/laravel-lang",
     "description": "Modular Export of Laravel translations for Front-End and API usage.",
     "keywords": ["laravel", "framework", "Laravel-lang", "Laravel Lang", "Yazeed Obaid", "Obaid"],
     "type": "library",
